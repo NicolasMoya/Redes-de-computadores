@@ -27,6 +27,11 @@ Estándares (Los realiza a travez de los RFC's (Requests for comments))
 -De facto (aceptados naturalmente por la industria; ejemplo IBM PC)
 
 
+Encapsulamiento
+
+rodea datos con informacion de protocolo necesaria (teoria de la caja dentro de la caja en el barco)
+
+
 
 
 
