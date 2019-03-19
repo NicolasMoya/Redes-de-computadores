@@ -30,7 +30,7 @@ Estándares (Los realiza a travez de los RFC's (Requests for comments))
 Encapsulamiento
 
 rodea datos con informacion de protocolo necesaria (teoria de la caja dentro de la caja en el barco)
-
+-PDU (unidad de datos de protocolo) : contenido de datos que realmente sirve
 
 
 
