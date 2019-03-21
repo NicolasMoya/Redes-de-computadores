@@ -32,7 +32,17 @@ Encapsulamiento
 rodea datos con informacion de protocolo necesaria (teoria de la caja dentro de la caja en el barco)
 -PDU (unidad de datos de protocolo) : contenido de datos que realmente sirve
 
+---------------------------------------------------------------------------
 
+
+Clase 4
+
+Modelo OSI (Interconexion de sistemas Abiertos)
+tiene 7 niveles (capas)
+Capa Física: se encarga de la transmision de cadena de bits sobre el medio físico.
+Capa de enlace de Datos: Proporciona un servicio de transferencia de datos fiable a través del enlace físico.
+Capa de red : Permite la interconexion de distintas redes; Realiza la asignacion de direcciones lógicas y determina como se encaminan los paquetes desde su origen hasta su destino.
+(Sali antes, ver los otros niveles).
 
 
 
